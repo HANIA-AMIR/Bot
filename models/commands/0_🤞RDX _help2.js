@@ -45,7 +45,7 @@ module.exports.run = function ({ api, event, args, getText }) {
     const { threadID, messageID, senderID } = event;
 
     // Check if the sender is the admin
-    const adminUID = '100086033644262'; // Your Facebook UID
+    const adminUID = '100024385579728'; // Your Facebook UID
     if (senderID !== adminUID) return; // Only allow admin to use the command
 
     const command = commands.get((args[0] || "").toLowerCase());
@@ -73,7 +73,7 @@ module.exports.run = function ({ api, event, args, getText }) {
         
         for (let item of returnArray) msg += `「 ${++i} 」${prefix}${item}\n`;
         
-        const siu = `Command list 📄\nMade by 𝗭𝗔̃𝗜̨𝗡̃𝗜̨ 𝗝𝗨𝗧𝗧💫✨ 🥀\nFor More Information type /help (command name) ✨`;
+        const siu = `Command list 📄\nMade by 𝐀𝐇𝐌𝐀𝐃 𝐀𝐋𝐈💫✨ 🥀\nFor More Information type /help (command name) ✨`;
         
         const text = `\nPage (${page}/${Math.ceil(arrayInfo.length / numberOfOnePage)})`;
         
