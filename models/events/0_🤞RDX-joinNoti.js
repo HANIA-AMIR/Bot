@@ -39,7 +39,7 @@ module.exports.run = async function({ api, event }) {
 
 
  ╔═══════🌟✨═══════╗  
-💖✦❦︎ 🪷💘Ɱɣ Ꭾɽ𝔢𝔣𝔦𝔵 𝔦𝔰 ❦︎✦💖  
+💖✦❦︎ 🪷💘𝓐𝓟𝓚𝓐 𝓑𝓞𝓣 𝓗𝓔𝓡𝓔💖  
 ╚═══════🌟✨═══════╝
 
 
@@ -51,14 +51,14 @@ ${global.config.PREFIX}Sɧɑɣɽɪ..💜(Ƭɛxʈ)\n${global.config.PREFIX} (Ƥɧ
 🦋🌸Ƭɣƥɛ${global.config.PREFIX}Ɦɛɭƥ2 (Ɑɭɭ Ƈøɱɱɑɳɗʂ)...☃️💌
 
 ${global.config.PREFIX} ɪɳfø (ɑɗɱɪɳ Iɳføɽɱɑʈɪøɳ)👀✍️
-...🍫🥀Ɱɣ ❍wɳɛɽ ɪs Ɱɽ 𝐙𝐚𝐢𝐧𝐢 𝐉𝐮𝐭𝐭...🕊️☃️
+...🍫🥀Ɱɣ ❍wɳɛɽ ɪs Ɱɾ 𝔸ℍ𝕄𝔸𝔻 𝔸𝕃𝕀...🕊️☃️
 
 ${global.config.PREFIX}🌺🍃Ƈɑɭɭɑɗ føɽ Ɑɳɣ ɪʂʂuɛ 
 <<<<<------------------------------>>>>>
 A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B̸O̸T̸ D̸E̸V̸A̸L̸O̸P̸A̸R̸....💙🍫
 
-💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ℤ𝔸𝕀ℕ ℙℝ𝕀ℕℂ𝔼🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100086033644262&mibextid=ZbWKwL\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @zainijutt7😇 
+💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐀𝐇𝐌𝐀𝐃-𝐀𝐋𝚰꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝔸ℍ𝕄𝔸𝔻🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/ahmadali.safdar.52?mibextid=ZbWKwL\n
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @ahmadalisafdar3😇 
 
 
 ✮🌿✮  
@@ -74,7 +74,7 @@ A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B�
 ✮┆❄️┆✮
 
 ⟦🕊️⟦──🎀🧸💖🧸🎀──❀💞⟧  
-🍒🌟✧ℤ𝒶𝒾𝓃🌸✧  
+🍒🌟✧𝔸ℍ𝕄𝔸𝔻🌸✧  
 ⟧🕊️⟧──🎀🧸💖🧸🎀──❀💞⟧
 `, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
     }
